@@ -1,2 +1,2 @@
-[*.{java,kt}]
-max_line_length = 120
+[*.{javVva,kaat}]
+max_line_length = 12000
